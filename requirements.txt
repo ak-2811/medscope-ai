@@ -1,0 +1,6 @@
+streamlit==1.49.1
+sentence-transformers==3.0.1
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+python-dotenv==1.0.1

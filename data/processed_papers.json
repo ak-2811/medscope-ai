@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Effectiveness of Physical Therapy in Knee Osteoarthritis: A Randomized Controlled Trial",
+    "authors": "Smith, J.A., Johnson, M.B., Williams, C.D.",
+    "journal": "Journal of Orthopedic Physical Therapy",
+    "year": "2024",
+    "doi": "10.1016/j.jopt.2024.001",
+    "pmid": "12345678",
+    "keywords": "knee osteoarthritis, physical therapy, randomized controlled trial, pain management",
+    "abstract": "Background: Knee osteoarthritis is a common degenerative joint disease affecting millions worldwide. Physical therapy interventions have shown promise in managing symptoms and improving function. Methods: We conducted a randomized controlled trial with 200 patients diagnosed with knee osteoarthritis. Participants were randomly assigned to receive either structured physical therapy (n=100) or standard care (n=100). The physical therapy group received 12 weeks of supervised exercises including strengthening, flexibility, and balance training. Results: The physical therapy group showed significant improvements in pain scores (p<0.001), functional mobility (p<0.01), and quality of life measures (p<0.05) compared to the control group. Conclusion: Structured physical therapy programs are effective in reducing pain and improving function in patients with knee osteoarthritis."
+  },
+  {
+    "title": "Machine Learning Applications in Medical Diagnosis: A Systematic Review",
+    "authors": "Chen, L., Rodriguez, M.A., Patel, S.K.",
+    "journal": "Artificial Intelligence in Medicine",
+    "year": "2024",
+    "doi": "10.1016/j.artmed.2024.002",
+    "pmid": "12345679",
+    "keywords": "machine learning, medical diagnosis, artificial intelligence, systematic review",
+    "abstract": "Objective: To systematically review the current applications of machine learning in medical diagnosis across various specialties. Methods: We searched PubMed, Embase, and IEEE databases for studies published between 2020-2024 using machine learning for diagnostic purposes. Results: 156 studies met inclusion criteria, covering radiology (45%), pathology (25%), cardiology (15%), and other specialties (15%). Deep learning models, particularly convolutional neural networks, showed superior performance in image-based diagnoses with average accuracy of 92.3%. Natural language processing models achieved 87.6% accuracy in clinical text analysis. Conclusion: Machine learning shows significant promise in medical diagnosis, with image-based applications leading in performance metrics."
+  },
+  {
+    "title": "COVID-19 Vaccine Effectiveness Against Omicron Variant: Real-World Evidence",
+    "authors": "Hansen, C.H., Michlmayr, D., Gubbels, S.M.",
+    "journal": "The Lancet",
+    "year": "2024",
+    "doi": "10.1016/S0140-6736(24)00001-X",
+    "pmid": "12345680",
+    "keywords": "COVID-19, vaccine effectiveness, Omicron variant, real-world evidence",
+    "abstract": "Background: The emergence of SARS-CoV-2 Omicron variant raised concerns about vaccine effectiveness. This study evaluates real-world vaccine effectiveness against Omicron infection and severe outcomes. Methods: Population-based cohort study including 2.5 million individuals in Denmark from December 2021 to March 2022. Vaccine effectiveness was estimated using Cox regression models. Results: Two-dose mRNA vaccine effectiveness against Omicron infection was 55.2% (95% CI: 53.1-57.2%) initially, declining to 23.5% after 90 days. Booster dose restored effectiveness to 75.5%. Against hospitalization, effectiveness remained high at 85.4% even after 90 days. Conclusion: While vaccine effectiveness against Omicron infection wanes over time, protection against severe outcomes remains substantial, supporting booster vaccination strategies."
+  },
+  {
+    "title": "Telemedicine Adoption in Rural Healthcare: Barriers and Facilitators",
+    "authors": "Thompson, R.L., Garcia, A.M., Brown, K.J.",
+    "journal": "Journal of Rural Health",
+    "year": "2023",
+    "doi": "10.1111/jrh.2023.001",
+    "pmid": "12345681",
+    "keywords": "telemedicine, rural healthcare, healthcare access, digital health",
+    "abstract": "Introduction: Telemedicine has potential to address healthcare access challenges in rural areas. This study examines factors influencing telemedicine adoption among rural healthcare providers. Methods: Mixed-methods study including surveys of 450 rural healthcare providers and interviews with 25 key stakeholders across 5 states. Results: Main barriers included inadequate internet infrastructure (78%), lack of technical support (65%), and reimbursement concerns (58%). Facilitators included improved patient access (89%), reduced travel burden (82%), and enhanced specialist consultation (76%). Providers with prior telehealth experience showed 3.2x higher adoption rates. Conclusion: Successful telemedicine implementation in rural areas requires addressing infrastructure limitations and providing comprehensive technical support."
+  },
+  {
+    "title": "Mindfulness-Based Stress Reduction for Healthcare Workers: A Meta-Analysis",
+    "authors": "Kumar, S., Lee, H.J., Anderson, P.M.",
+    "journal": "Journal of Occupational Health Psychology",
+    "year": "2023",
+    "doi": "10.1037/ocp0000345",
+    "pmid": "12345682",
+    "keywords": "mindfulness, stress reduction, healthcare workers, burnout, meta-analysis",
+    "abstract": "Objective: Healthcare workers experience high levels of occupational stress and burnout. This meta-analysis evaluates the effectiveness of mindfulness-based stress reduction (MBSR) interventions for healthcare workers. Methods: Systematic search of databases yielded 28 randomized controlled trials (n=2,847 participants). Random-effects meta-analysis was performed using standardized mean differences. Results: MBSR interventions significantly reduced stress levels (SMD=-0.68, 95% CI: -0.89 to -0.47, p<0.001), burnout scores (SMD=-0.52, 95% CI: -0.71 to -0.33, p<0.001), and anxiety symptoms (SMD=-0.45, 95% CI: -0.63 to -0.27, p<0.001). Effects were maintained at 3-month follow-up. Heterogeneity was moderate (I²=45%). Conclusion: MBSR interventions are effective in reducing stress and burnout among healthcare workers, supporting their implementation in healthcare settings."
+  }
+]
