@@ -1,7 +1,7 @@
 import json
 import numpy as np
 from typing import List, Dict, Any, Optional
-from embedding_generator import EmbeddingGenerator
+from .embedding_generator import EmbeddingGenerator
 import re
 
 class MedScopeSearchEngine:
