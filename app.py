@@ -7,9 +7,9 @@ import os
 # Add scripts directory to path for imports
 sys.path.append('scripts')
 
-from search_engine import MedScopeSearchEngine
-from data_processor import MedicalPaperProcessor
-from embedding_generator import EmbeddingGenerator
+from scripts.search_engine import MedScopeSearchEngine
+from scripts.data_processor import MedicalPaperProcessor
+from scripts.embedding_generator import EmbeddingGenerator
 
 # Page configuration
 st.set_page_config(
