@@ -123,7 +123,7 @@ def main():
     
     # Initialize search engine
     if 'search_engine' not in st.session_state:
-        with st.spinner("Initializing MedScope AI..."):
+        with st.spinner("Initializing MedMind AI..."):
             st.session_state.search_engine = initialize_data()
     
     search_engine = st.session_state.search_engine
