@@ -13,7 +13,7 @@ from scripts.embedding_generator import EmbeddingGenerator
 
 # Page configuration
 st.set_page_config(
-    page_title="MedScope AI - Medical Research Finder",
+    page_title="MedMind AI - Medical Research Finder",
     page_icon="🔬",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -118,7 +118,7 @@ def display_paper_result(paper, rank):
 
 def main():
     # Header
-    st.markdown('<div class="main-header">🔬 MedScope AI</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-header">🔬 MedMind AI</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-header">Intelligent Medical Research Paper Finder</div>', unsafe_allow_html=True)
     
     # Initialize search engine
@@ -248,7 +248,7 @@ def main():
     st.markdown("---")
     st.markdown("""
     <div style="text-align: center; color: #666; font-size: 0.9rem;">
-        <p>🔬 MedScope AI - Powered by Sentence Transformers and Semantic Search</p>
+        <p>🔬 MedMind AI - Powered by Sentence Transformers and Semantic Search</p>
         <p>Built with Streamlit • Vector embeddings using all-mpnet-base-v2</p>
     </div>
     """, unsafe_allow_html=True)
