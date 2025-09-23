@@ -1,4 +1,4 @@
-# 🔬 MedScope AI - Medical Research Paper Finder
+# 🔬 MedMind AI - Medical Research Paper Finder
 
 An intelligent medical research paper finder that uses natural language queries to search through medical abstracts using semantic vector search.
 
